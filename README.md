@@ -1,10 +1,5 @@
 # BlockReview - Decentralized Product Review System
 
-**Student:** Asma  
-**Registration No:** 21PWBCS0870  
-**Semester:** 8th (Final)  
-**Course:** Blockchain Technology
-
 ## Abstract
 
 This project presents a decentralized product review system built on Ethereum blockchain technology. The system allows users to submit transparent, immutable product reviews that cannot be tampered with or deleted. Using Solidity smart contracts and React.js frontend, the application ensures review authenticity through blockchain verification while preventing duplicate reviews from the same user. The system addresses trust issues in traditional centralized review platforms by leveraging blockchain's immutable nature.
@@ -354,18 +349,3 @@ const searchReviews = async () => {
 - Git for version control
 
 ---
-
-**Project completed by Asma (21PWBCS0870) for Blockchain Technology course, Semester 8**
-│   ├── hardhat.config.js     # Hardhat configuration
-│   └── package.json          # Backend dependencies
-├── review-dapp/              # React frontend application
-│   ├── src/                  # React source code
-│   │   ├── App.js           # Main application component
-│   │   ├── contracts/       # Contract ABIs
-│   │   └── ...              # Other React files
-│   ├── public/              # Static assets
-│   └── package.json         # Frontend dependencies
-└── screenshots/             # Project screenshots
-```
-
-**Project completed by Asma (21PWBCS0870) for Blockchain Technology course, Semester 8**
