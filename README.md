@@ -116,11 +116,8 @@ The project proves that blockchain technology can effectively solve trust issues
 ## Web UI Screenshots
 
 ### Dashboard and Main Interface
-![Web Dashboard](screenshots/webscreenshot1.png)
-*Main dashboard showing review submission form and search functionality*
-
 ![Review Display](screenshots/webscreenshot2.png)
-*Product review display with star ratings and user comments*
+*Main dashboard showing review submission form and search functionality*
 
 ### Review Submission Process
 ![Review Form](screenshots/webscreenshot3.png)
